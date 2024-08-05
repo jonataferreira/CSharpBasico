@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DIO\\C#\\clone\\CSharpBasico\\Aula01\\Aula01.csproj": {}
+    "C:\\DIO\\C#\\clone\\CSharpBasico\\Aula02\\Aula02.csproj": {}
   },
   "projects": {
-    "C:\\DIO\\C#\\clone\\CSharpBasico\\Aula01\\Aula01.csproj": {
+    "C:\\DIO\\C#\\clone\\CSharpBasico\\Aula02\\Aula02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DIO\\C#\\clone\\CSharpBasico\\Aula01\\Aula01.csproj",
-        "projectName": "Aula01",
-        "projectPath": "C:\\DIO\\C#\\clone\\CSharpBasico\\Aula01\\Aula01.csproj",
+        "projectUniqueName": "C:\\DIO\\C#\\clone\\CSharpBasico\\Aula02\\Aula02.csproj",
+        "projectName": "Aula02",
+        "projectPath": "C:\\DIO\\C#\\clone\\CSharpBasico\\Aula02\\Aula02.csproj",
         "packagesPath": "C:\\Users\\Ferreira\\.nuget\\packages\\",
-        "outputPath": "C:\\DIO\\C#\\clone\\CSharpBasico\\Aula01\\obj\\",
+        "outputPath": "C:\\DIO\\C#\\clone\\CSharpBasico\\Aula02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,14 +1,20 @@
-using System;
-
-namespace Aula01.Models
+namespace Aula02.Models
 {
     public class Pessoa
     {
-        public string Nome { get; set; }
-        public int Idade { get; set; }
+        public int count {get; set;}
 
-        public void Apresentar(){
-            Console.WriteLine($"Olá, meu nome é {Nome}, e tenho {Idade} anos.");
+
+        public void Tabuada (int x)
+        {
+            for (int y = 0; y <= 10; y++)
+            {
+                int tabuada = y*x;
+
+                Console.WriteLine(x + " X " + (y) + " = " + (tabuada));
+
+            }
         }
+    
     }
 }
