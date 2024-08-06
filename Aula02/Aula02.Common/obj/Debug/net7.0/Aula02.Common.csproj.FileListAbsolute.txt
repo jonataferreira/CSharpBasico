@@ -1,0 +1,12 @@
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\bin\Debug\net7.0\Aula02.Common.deps.json
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\bin\Debug\net7.0\Aula02.Common.dll
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\bin\Debug\net7.0\Aula02.Common.pdb
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\obj\Debug\net7.0\Aula02.Common.csproj.AssemblyReference.cache
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\obj\Debug\net7.0\Aula02.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\obj\Debug\net7.0\Aula02.Common.AssemblyInfoInputs.cache
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\obj\Debug\net7.0\Aula02.Common.AssemblyInfo.cs
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\obj\Debug\net7.0\Aula02.Common.csproj.CoreCompileInputs.cache
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\obj\Debug\net7.0\Aula02.Common.dll
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\obj\Debug\net7.0\refint\Aula02.Common.dll
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\obj\Debug\net7.0\Aula02.Common.pdb
+C:\DIO\C#\clone\CSharpBasico\aula02\Aula02.Common\obj\Debug\net7.0\ref\Aula02.Common.dll
