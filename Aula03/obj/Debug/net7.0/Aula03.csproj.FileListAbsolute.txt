@@ -1,0 +1,15 @@
+C:\DIO\C#\clone\CSharpBasico\Aula03\obj\Debug\net7.0\Aula03.csproj.AssemblyReference.cache
+C:\DIO\C#\clone\CSharpBasico\Aula03\obj\Debug\net7.0\Aula03.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\C#\clone\CSharpBasico\Aula03\obj\Debug\net7.0\Aula03.AssemblyInfoInputs.cache
+C:\DIO\C#\clone\CSharpBasico\Aula03\obj\Debug\net7.0\Aula03.AssemblyInfo.cs
+C:\DIO\C#\clone\CSharpBasico\Aula03\obj\Debug\net7.0\Aula03.csproj.CoreCompileInputs.cache
+C:\DIO\C#\clone\CSharpBasico\Aula03\bin\Debug\net7.0\Aula03.exe
+C:\DIO\C#\clone\CSharpBasico\Aula03\bin\Debug\net7.0\Aula03.deps.json
+C:\DIO\C#\clone\CSharpBasico\Aula03\bin\Debug\net7.0\Aula03.runtimeconfig.json
+C:\DIO\C#\clone\CSharpBasico\Aula03\bin\Debug\net7.0\Aula03.dll
+C:\DIO\C#\clone\CSharpBasico\Aula03\bin\Debug\net7.0\Aula03.pdb
+C:\DIO\C#\clone\CSharpBasico\Aula03\obj\Debug\net7.0\Aula03.dll
+C:\DIO\C#\clone\CSharpBasico\Aula03\obj\Debug\net7.0\refint\Aula03.dll
+C:\DIO\C#\clone\CSharpBasico\Aula03\obj\Debug\net7.0\Aula03.pdb
+C:\DIO\C#\clone\CSharpBasico\Aula03\obj\Debug\net7.0\Aula03.genruntimeconfig.cache
+C:\DIO\C#\clone\CSharpBasico\Aula03\obj\Debug\net7.0\ref\Aula03.dll
