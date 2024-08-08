@@ -7,10 +7,14 @@ namespace Aula03.Models
 {
     public class Pessoa
     {
-        public Pessoa(string nome, string sobrenome)
-        {
+        //public Pessoa(  ) { }
 
-        }
+       public Pessoa(string nome, int idade) 
+       { 
+        Nome = nome;
+        Idade = idade;
+       }
+       // public Pessoa(string nome, string sobrenome) { }
         private string _nome;
         private int _idade; 
 
@@ -53,11 +57,15 @@ namespace Aula03.Models
         public string Sobrenome { get; set; }
         public string NomeCompleto { get => $"{Nome} {Sobrenome}".ToUpper(); }
 
-        public void Apresentar(string nome, int idade)
+        // public void Apresentar(string nome, int idade)
+        // {
+        //      this.Nome = nome;
+        //      this.Idade = idade;
+        //     Console.WriteLine($"Nome: {NomeCompleto}, Idade: {idade}");
+        // }
+         public void Apresentar()
         {
-            this.Nome = nome;
-            this.Idade = idade;
-            Console.WriteLine($"Nome: {NomeCompleto}, Idade: {idade}");
+            Console.WriteLine($"Nome: {Nome}, Idade: {Idade}");
         }
 
     }
